@@ -1,0 +1,22 @@
+@media (max-width: 768px) {
+	.top {
+	}
+	.container {
+	}
+	.title {
+		font-size: 646px;
+		background: red;
+	}
+	.subttitle {
+	}
+	.top__text {
+	}
+	.buy-btn {
+	}
+	.buy-btn__text {
+	}
+	.buy-btn__price {
+	}
+	.buy__text {
+	}
+}
